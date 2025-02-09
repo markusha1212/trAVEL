@@ -1,0 +1,27 @@
+<html>
+    <head>
+        <title>travel</title>
+        <link rel="stylesheet" href="style.css"/>
+    </head>
+    <body>
+        <header>
+
+            <h1><img src="Fires.loud.png"/>туристическое агентство</h1>
+    </header>
+    <main>
+        <h2>(Тайланд)Пхукет</h2>
+        <img src="phuket-2.jpg"/>
+        <h2>(Франция)Париж</h2>
+        <img src="paris-tips-COVER.jpg"/>
+        <h2>(США)Нью-Йорк</h2>
+         <img src="new-york001svoboda.jpg"/>
+        <h2>(Испания)Тенерифе</h2>
+        <img src="tenerife.jpg"/>
+    </main>
+    <footer>
+    <a>подробности...</a>
+    <p>тг юз:</p>
+    <p>gmail(@):</p>
+    </footer>
+    </body>
+</html>
